@@ -1,6 +1,6 @@
 ThisBuild / scalaVersion := "2.12.18"
 ThisBuild / organization := "corp.beast"
-ThisBuild / version := "0.1.0-SNAPSHOT"
+ThisBuild / version := "0.1.0-SNAPSHOT
 
 lazy val core = (project in file("core"))
   .settings(
